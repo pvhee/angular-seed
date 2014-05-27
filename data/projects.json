@@ -1,0 +1,836 @@
+[
+  {
+    "id": "140193",
+    "title": "MOLECULAR-SCALE ELECTRONICS: Concepts, Contacts and Stability \"MOLESCO\"",
+    "participants": [
+      {
+        "name": "UNIVERSITY OF DURHAM",
+        "country": "GB",
+        "city": "DURHAM",
+        "lat": "54.7749",
+        "lon": "-1.56975"
+      },
+      {
+        "name": "IBM RESEARCH GMBH",
+        "country": "CH",
+        "city": "RUESCHLIKON",
+        "lat": "47.3074",
+        "lon": "8.54802"
+      },
+      {
+        "name": "FRIEDRICH-ALEXANDER-UNIVERSITAT ERLANGEN NURNBERG",
+        "country": "DE",
+        "city": "ERLANGEN",
+        "lat": "49.5977",
+        "lon": "11.0047"
+      },
+      {
+        "name": "UNIVERSITAET BERN",
+        "country": "CH",
+        "city": "BERN",
+        "lat": "46.9504",
+        "lon": "7.43815"
+      },
+      {
+        "name": "LANCASTER UNIVERSITY",
+        "country": "GB",
+        "city": "LANCASTER",
+        "lat": "54.0139",
+        "lon": "-2.78792"
+      },
+      {
+        "name": "UNIVERSITAET BASEL",
+        "country": "CH",
+        "city": "BASEL",
+        "lat": "47.5588",
+        "lon": "7.58261"
+      },
+      {
+        "name": "FUNDACION IMDEA NANOCIENCIA",
+        "country": "ES",
+        "city": "MADRID"
+      },
+      {
+        "name": "SYDDANSK UNIVERSITET",
+        "country": "DK",
+        "city": "ODENSE M",
+        "lat": "55.3684",
+        "lon": "10.4277"
+      },
+      {
+        "name": "TECHNISCHE UNIVERSITEIT DELFT",
+        "country": "NL",
+        "city": "DELFT",
+        "lat": "51.9991",
+        "lon": "4.37566"
+      },
+      {
+        "name": "UNIVERSITAET REGENSBURG",
+        "country": "DE",
+        "city": "REGENSBURG"
+      }
+    ],
+    "url": "http://cordis.lab/project/molecular-scale-electronics-concepts-contacts-and-stability-molesco/140193",
+    "rcn": "109272",
+    "cost": "3985376",
+    "funding": "3985376",
+    "project_acronym": "MOLESCO",
+    "start_date": "1388530800",
+    "end_date": "1514674800"
+  },
+  {
+    "id": "140195",
+    "title": "Biopolymer Based FOOd Delivery Systems",
+    "participants": [
+      {
+        "name": "KOBENHAVNS UNIVERSITET",
+        "country": "DK",
+        "city": "KOBENHAVN K",
+        "lat": "55.6805",
+        "lon": "12.5712"
+      },
+      {
+        "name": "CR COMPETENCE AB",
+        "country": "SE",
+        "city": "LUND",
+        "lat": "54.4949",
+        "lon": "9.0319"
+      },
+      {
+        "name": "CHR. HANSEN A/S",
+        "country": "DK",
+        "city": "HOERSHOLM",
+        "lat": "55.8734",
+        "lon": "12.4876"
+      },
+      {
+        "name": "PRODIGEST",
+        "country": "BE",
+        "city": "GENT ZWIJNAARDE",
+        "lat": "51.01",
+        "lon": "3.70971"
+      },
+      {
+        "name": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+        "country": "DE",
+        "city": "HEIDELBERG"
+      },
+      {
+        "name": "UNIVERSITÉ DE LORRAINE",
+        "country": "FR",
+        "city": "NANCY",
+        "lat": "48.6962",
+        "lon": "6.17654"
+      },
+      {
+        "name": "UNIVERSITEIT GENT",
+        "country": "BE",
+        "city": "GENT",
+        "lat": "51.0477",
+        "lon": "3.72721"
+      },
+      {
+        "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
+        "country": "ES",
+        "city": "MADRID",
+        "lat": "40.4387",
+        "lon": "-3.68603"
+      },
+      {
+        "name": "UNIVERSIDAD DE ALCALA",
+        "country": "ES",
+        "city": "ALCALA DE HENARES/MADRID",
+        "lat": "40.4832",
+        "lon": "-3.3633"
+      },
+      {
+        "name": "LUNDS UNIVERSITET",
+        "country": "SE",
+        "city": "LUND",
+        "lat": "55.7062",
+        "lon": "13.1936"
+      },
+      {
+        "name": "UNIVERSIDADE DE COIMBRA",
+        "country": "PT",
+        "city": "COIMBRA",
+        "lat": "40.3307",
+        "lon": "-8.3945"
+      }
+    ],
+    "url": "http://cordis.lab/project/biopolymer-based-food-delivery-systems/140195",
+    "rcn": "111461",
+    "cost": "3765084",
+    "funding": "3765084",
+    "project_acronym": "BIBAFOODS",
+    "start_date": "1391209200",
+    "end_date": "1517353200"
+  },
+  {
+    "id": "140197",
+    "title": "Hit to lead optimisation of novel anti-TB scaffolds through an academic-industrial partnership",
+    "participants": [
+      {
+        "name": "THE UNIVERSITY OF BIRMINGHAM",
+        "country": "GB",
+        "city": "BIRMINGHAM",
+        "lat": "52.4649",
+        "lon": "-1.93154"
+      },
+      {
+        "name": "GLAXOSMITHKLINE INVESTIGACION Y DESARROLLO SL",
+        "country": "ES",
+        "city": "TRES CANTOS",
+        "lat": "40.5964",
+        "lon": "-3.71141"
+      }
+    ],
+    "url": "http://cordis.lab/project/hit-lead-optimisation-novel-anti-tb-scaffolds-through-academic-industrial-partnership/140197",
+    "rcn": "109720",
+    "cost": "1174366",
+    "funding": "1174366",
+    "project_acronym": "COOPERA-TB",
+    "start_date": "1391209200",
+    "end_date": "1517353200"
+  },
+  {
+    "id": "140201",
+    "title": "European Academy for Marine and Underwater Robotics",
+    "participants": [
+      {
+        "name": "DEUTSCHES FORSCHUNGSZENTRUM FUER KUENSTLICHE INTELLIGENZ GMBH",
+        "country": "DE",
+        "city": "KAISERSLAUTERN",
+        "lat": "49.4335",
+        "lon": "7.7575"
+      },
+      {
+        "name": "HERIOT-WATT UNIVERSITY",
+        "country": "GB",
+        "city": "EDINBURGH",
+        "lat": "55.9088",
+        "lon": "-3.32221"
+      },
+      {
+        "name": "TALLINNA TEHNIKAULIKOOL",
+        "country": "EE",
+        "city": "TALLINN",
+        "lat": "59.4067",
+        "lon": "24.6677"
+      },
+      {
+        "name": "UNIVERSITAT DE GIRONA",
+        "country": "ES",
+        "city": "GIRONA",
+        "lat": "41.9722",
+        "lon": "2.81988"
+      },
+      {
+        "name": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+        "country": "GB",
+        "city": "SWINDON WILTSHIRE",
+        "lat": "51.5558",
+        "lon": "-1.77972"
+      },
+      {
+        "name": "NATO SCIENCE AND TECHNOLOGY ORGANISATION",
+        "country": "BE",
+        "city": "BRUXELLES",
+        "lat": "50.8596",
+        "lon": "4.40025"
+      },
+      {
+        "name": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+        "country": "EL",
+        "city": "ATHINA"
+      },
+      {
+        "name": "ATLAS ELEKTRONIK GMBH",
+        "country": "DE",
+        "city": "BREMEN",
+        "lat": "53.0583",
+        "lon": "8.89961"
+      },
+      {
+        "name": "SEEBYTE LTD",
+        "country": "UK",
+        "city": "EDINBURGH",
+        "lat": "55.9554",
+        "lon": "-3.22351"
+      },
+      {
+        "name": "GRAAL TECH SRL",
+        "country": "IT",
+        "city": "GENOVA",
+        "lat": "44.4095",
+        "lon": "8.94492"
+      }
+    ],
+    "url": "http://cordis.lab/project/european-academy-marine-and-underwater-robotics/140201",
+    "rcn": "109990",
+    "cost": "3610611",
+    "funding": "3610611",
+    "project_acronym": "ROBOCADEMY",
+    "start_date": "1388530800",
+    "end_date": "1514674800"
+  },
+  {
+    "id": "140204",
+    "title": "Training in Multiscale Analysis of multi-Phase Particulate Processes (T-MAPPP)",
+    "participants": [
+      {
+        "name": "THE UNIVERSITY OF EDINBURGH",
+        "country": "GB",
+        "city": "EDINBURGH",
+        "lat": "55.9475",
+        "lon": "-3.18648"
+      },
+      {
+        "name": "JOHNSON MATTHEY PLC.",
+        "country": "GB",
+        "city": "LONDON",
+        "lat": "51.5164",
+        "lon": "-0.104899"
+      },
+      {
+        "name": "UNIVERSITEIT TWENTE",
+        "country": "NL",
+        "city": "ENSCHEDE",
+        "lat": "52.24",
+        "lon": "6.85124"
+      },
+      {
+        "name": "RESEARCH CENTER PHARMACEUTICAL ENGINEERING GMBH",
+        "country": null,
+        "city": null
+      },
+      {
+        "name": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+        "country": "DE",
+        "city": "BRAUNSCHWEIG",
+        "lat": "52.2689",
+        "lon": "10.5268"
+      },
+      {
+        "name": "PROCTER & GAMBLE TECHNICAL CENTRESLIMITED",
+        "country": "GB",
+        "city": "WEYBRIDGE"
+      },
+      {
+        "name": "UNIVERSITE DE TECHNOLOGIE DE COMPIEGNE",
+        "country": "FR",
+        "city": "COMPIEGNE",
+        "lat": "49.4148",
+        "lon": "2.81788"
+      },
+      {
+        "name": "DCS Computing GmbH",
+        "country": "AT",
+        "city": "LINZ",
+        "lat": "48.3361",
+        "lon": "14.3231"
+      },
+      {
+        "name": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+        "country": "ES",
+        "city": "BARCELONA",
+        "lat": "41.3872",
+        "lon": "2.11111"
+      },
+      {
+        "name": "DEM Solutions Ltd",
+        "country": "UK",
+        "city": "Edinburgh",
+        "lat": "55.954",
+        "lon": "-3.20265"
+      }
+    ],
+    "url": "http://cordis.lab/project/training-multiscale-analysis-multi-phase-particulate-processes-t-mappp/140204",
+    "rcn": "109361",
+    "cost": "4046406",
+    "funding": "4046406",
+    "project_acronym": "T-MAPPP",
+    "start_date": "1393628400",
+    "end_date": "1519772400"
+  },
+  {
+    "id": "140207",
+    "title": "European Training in Neural Regulation of Intestinal Function",
+    "participants": [
+      {
+        "name": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+        "country": "DE",
+        "city": "TUEBINGEN",
+        "lat": "48.4673",
+        "lon": "8.93458"
+      },
+      {
+        "name": "INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE",
+        "country": "FR",
+        "city": "PARIS CEDEX 07",
+        "lat": "48.861",
+        "lon": "2.31409"
+      },
+      {
+        "name": "TECHNISCHE UNIVERSITAET MUENCHEN",
+        "country": "DE",
+        "city": "MUENCHEN",
+        "lat": "48.1514",
+        "lon": "11.5705"
+      },
+      {
+        "name": "ACADEMISCH MEDISCH CENTRUM BIJ DE UNIVERSITEIT VAN AMSTERDAM",
+        "country": "NL",
+        "city": "AMSTERDAM",
+        "lat": "52.295",
+        "lon": "4.95361"
+      },
+      {
+        "name": "ALMA MATER STUDIORUM-UNIVERSITA DI BOLOGNA",
+        "country": "IT",
+        "city": "BOLOGNA",
+        "lat": "44.4973",
+        "lon": "11.3531"
+      },
+      {
+        "name": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+        "country": "BE",
+        "city": "LEUVEN",
+        "lat": "50.8781",
+        "lon": "4.69956"
+      },
+      {
+        "name": "THE UNIVERSITY OF SHEFFIELD",
+        "country": "GB",
+        "city": "SHEFFIELD",
+        "lat": "53.3811",
+        "lon": "-1.47009"
+      },
+      {
+        "name": "GOETEBORGS UNIVERSITET",
+        "country": "SE",
+        "city": "GOETEBORG",
+        "lat": "57.6987",
+        "lon": "11.971"
+      },
+      {
+        "name": "UNIVERSITAT AUTONOMA DE BARCELONA",
+        "country": "ES",
+        "city": "CERDANYOLA DEL VALLES",
+        "lat": "41.4998",
+        "lon": "2.09884"
+      },
+      {
+        "name": "QUEEN MARY AND WESTFIELD COLLEGE, UNIVERSITY OF LONDON",
+        "country": "GB",
+        "city": "LONDON",
+        "lat": "51.5225",
+        "lon": "-0.0418852"
+      },
+      {
+        "name": "GIVEN IMAGING LTD",
+        "country": "IL",
+        "city": "YOQNEAM"
+      },
+      {
+        "name": "SYMBIO PHARM GMBH",
+        "country": "DE",
+        "city": "HERBORN",
+        "lat": "50.6729",
+        "lon": "8.28063"
+      }
+    ],
+    "url": "http://cordis.lab/project/european-training-neural-regulation-intestinal-function/140207",
+    "rcn": "111417",
+    "cost": "3687557",
+    "funding": "3687557",
+    "project_acronym": "NEUROGUT",
+    "start_date": "1391209200",
+    "end_date": "1517353200"
+  },
+  {
+    "id": "140209",
+    "title": "Improving Children's Auditory Rehabilitation",
+    "participants": [
+      {
+        "name": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+        "country": "BE",
+        "city": "LEUVEN",
+        "lat": "50.8781",
+        "lon": "4.69956"
+      },
+      {
+        "name": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+        "country": "DE",
+        "city": "AACHEN",
+        "lat": "50.7771",
+        "lon": "6.07787"
+      },
+      {
+        "name": "LINKOPINGS UNIVERSITET",
+        "country": "SE",
+        "city": "LINKOPING",
+        "lat": "58.3985",
+        "lon": "15.5745"
+      },
+      {
+        "name": "STICHTING KATHOLIEKE UNIVERSITEIT",
+        "country": "NL",
+        "city": "NIJMEGEN",
+        "lat": "51.8198",
+        "lon": "5.85737"
+      },
+      {
+        "name": "UNIVERSITY COLLEGE LONDON",
+        "country": "GB",
+        "city": "LONDON",
+        "lat": "51.5225",
+        "lon": "-0.132641"
+      },
+      {
+        "name": "UNIVERSITY OF MACEDONIA",
+        "country": "EL",
+        "city": "THESSALONIKI"
+      },
+      {
+        "name": "HOGSKOLAN I GAVLE",
+        "country": "SE",
+        "city": "GAVLE",
+        "lat": "60.6717",
+        "lon": "17.1308"
+      },
+      {
+        "name": "COCHLEAR RESEARCH AND DEVELOPMENT LIMITED",
+        "country": "GB",
+        "city": "ADDLESTONE",
+        "lat": "51.372",
+        "lon": "-0.473691"
+      },
+      {
+        "name": "NOLDUS INFORMATION TECHNOLOGY BV",
+        "country": "NL",
+        "city": "WAGENINGEN",
+        "lat": "51.9744",
+        "lon": "5.64258"
+      }
+    ],
+    "url": "http://cordis.lab/project/improving-childrens-auditory-rehabilitation/140209",
+    "rcn": "109497",
+    "cost": "4085629",
+    "funding": "4085629",
+    "project_acronym": "ICARE",
+    "start_date": "1388530800",
+    "end_date": "1514674800"
+  },
+  {
+    "id": "140210",
+    "title": "Training network on reactive geological systems from the mantle to the abyssal sub-seafloor",
+    "participants": [
+      {
+        "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+        "country": "FR",
+        "city": "PARIS",
+        "lat": "48.8432",
+        "lon": "2.26019"
+      },
+      {
+        "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
+        "country": "ES",
+        "city": "MADRID",
+        "lat": "40.4387",
+        "lon": "-3.68603"
+      },
+      {
+        "name": "UNIVERSITY OF SOUTHAMPTON",
+        "country": "GB",
+        "city": "SOUTHAMPTON",
+        "lat": "50.9323",
+        "lon": "-1.39744"
+      },
+      {
+        "name": "UNIVERSITAET BREMEN",
+        "country": "DE",
+        "city": "BREMEN",
+        "lat": "53.1086",
+        "lon": "8.85162"
+      },
+      {
+        "name": "INSTITUT DE PHYSIQUE DU GLOBE DE PARIS",
+        "country": "FR",
+        "city": "PARIS",
+        "lat": "48.846",
+        "lon": "2.3552"
+      },
+      {
+        "name": "UNIVERSITA DEGLI STUDI DI MILANO",
+        "country": "IT",
+        "city": "MILANO",
+        "lat": "45.4607",
+        "lon": "9.19415"
+      },
+      {
+        "name": "UNIVERSITA DEGLI STUDI DI GENOVA",
+        "country": "IT",
+        "city": "GENOVA",
+        "lat": "44.4156",
+        "lon": "8.92508"
+      },
+      {
+        "name": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+        "country": "DE",
+        "city": "HANNOVER",
+        "lat": "52.3823",
+        "lon": "9.71812"
+      },
+      {
+        "name": "UNIVERSITETET I OSLO",
+        "country": "NO",
+        "city": "OSLO",
+        "lat": "59.942",
+        "lon": "10.7207"
+      },
+      {
+        "name": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+        "country": "NO",
+        "city": "TRONDHEIM",
+        "lat": "63.4172",
+        "lon": "10.4072"
+      }
+    ],
+    "url": "http://cordis.lab/project/training-network-reactive-geological-systems-mantle-abyssal-sub-seafloor/140210",
+    "rcn": "109123",
+    "cost": "4171064",
+    "funding": "4171064",
+    "project_acronym": "ABYSS",
+    "start_date": "1393628400",
+    "end_date": "1519772400"
+  },
+  {
+    "id": "140212",
+    "title": "FLUOR21 : Synthesis, structure and function of fluorinated systems",
+    "participants": [
+      {
+        "name": "UNIVERSITY OF DURHAM",
+        "country": "GB",
+        "city": "DURHAM",
+        "lat": "54.7749",
+        "lon": "-1.56975"
+      },
+      {
+        "name": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+        "country": "IE",
+        "city": "DUBLIN",
+        "lat": "53.3093",
+        "lon": "-6.2178"
+      },
+      {
+        "name": "WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER",
+        "country": "DE",
+        "city": "MUENSTER",
+        "lat": "51.9644",
+        "lon": "7.61332"
+      },
+      {
+        "name": "FREIE UNIVERSITAET BERLIN",
+        "country": "DE",
+        "city": "BERLIN",
+        "lat": "52.4484",
+        "lon": "13.2874"
+      },
+      {
+        "name": "USTAV ORGANICKE CHEMIE A BIOCHEMIE, AV CR, V.V.I.",
+        "country": "CZ",
+        "city": "PRAHA 6",
+        "lat": "50.1049",
+        "lon": "14.3912"
+      },
+      {
+        "name": "ASTRAZENECA AB",
+        "country": "SE",
+        "city": "SODERTAELJE"
+      },
+      {
+        "name": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS",
+        "country": "GB",
+        "city": "ST ANDREWS",
+        "lat": "56.3413",
+        "lon": "-2.79497"
+      },
+      {
+        "name": "UNIVERSITE DE NEUCHATEL",
+        "country": "CH",
+        "city": "NEUCHATEL",
+        "lat": "46.9919",
+        "lon": "6.93204"
+      },
+      {
+        "name": "ALMAC SCIENCES LIMITED",
+        "country": "UK",
+        "city": "CRAIGAVON",
+        "lat": "54.4434",
+        "lon": "-6.42429"
+      }
+    ],
+    "url": "http://cordis.lab/project/fluor21-synthesis-structure-and-function-fluorinated-systems/140212",
+    "rcn": "109282",
+    "cost": "3301293",
+    "funding": "3301293",
+    "project_acronym": "FLUOR21",
+    "start_date": "1393628400",
+    "end_date": "1519772400"
+  },
+  {
+    "id": "140213",
+    "title": "Design of novel high performance catalysts and biosensors based on deposited mass-selected clusters assisted by computational theoretical screening",
+    "participants": [
+      {
+        "name": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+        "country": "BE",
+        "city": "LEUVEN",
+        "lat": "50.8781",
+        "lon": "4.69956"
+      },
+      {
+        "name": "THE UNIVERSITY OF BIRMINGHAM",
+        "country": "GB",
+        "city": "BIRMINGHAM",
+        "lat": "52.4649",
+        "lon": "-1.93154"
+      },
+      {
+        "name": "DANMARKS TEKNISKE UNIVERSITET",
+        "country": "DK",
+        "city": "KONGENS LYNGBY",
+        "lat": "55.786",
+        "lon": "12.5241"
+      },
+      {
+        "name": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+        "country": "IT",
+        "city": "MILANO",
+        "lat": "45.5115",
+        "lon": "9.21032"
+      },
+      {
+        "name": "TEL AVIV UNIVERSITY",
+        "country": "IL",
+        "city": "TEL AVIV",
+        "lat": "32.1075",
+        "lon": "34.796"
+      },
+      {
+        "name": "UNIVERSITA DEGLI STUDI DI MILANO",
+        "country": "IT",
+        "city": "MILANO",
+        "lat": "45.4607",
+        "lon": "9.19415"
+      },
+      {
+        "name": "TEER COATINGS LIMITED",
+        "country": "GB",
+        "city": "DROITWICH"
+      }
+    ],
+    "url": "http://cordis.lab/project/design-novel-high-performance-catalysts-and-biosensors-based-deposited-mass-selected",
+    "rcn": "109498",
+    "cost": "3938144",
+    "funding": "3938144",
+    "project_acronym": "CATSENSE",
+    "start_date": "1388530800",
+    "end_date": "1514674800"
+  },
+  {
+    "id": "140214",
+    "title": "\"Virtual vials\" for enhanced biomolecular analysis",
+    "participants": [
+      {
+        "name": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+        "country": "IL",
+        "city": "HAIFA",
+        "lat": "32.8304",
+        "lon": "34.9743"
+      },
+      {
+        "name": "IBM RESEARCH GMBH",
+        "country": "CH",
+        "city": "RUESCHLIKON",
+        "lat": "47.3074",
+        "lon": "8.54802"
+      }
+    ],
+    "url": "http://cordis.lab/project/virtual-vials-enhanced-biomolecular-analysis/140214",
+    "rcn": "109721",
+    "cost": "776610",
+    "funding": "776610",
+    "project_acronym": "VIRTUALVIALS",
+    "start_date": "1393628400",
+    "end_date": "1519772400"
+  },
+  {
+    "id": "140215",
+    "title": "Nanoscale Materials for Energy: Fundamentals, Applications and Safety",
+    "participants": [
+      {
+        "name": "LUNDS UNIVERSITET",
+        "country": "SE",
+        "city": "LUND",
+        "lat": "55.7062",
+        "lon": "13.1936"
+      }
+    ],
+    "url": "http://cordis.lab/project/nanoscale-materials-energy-fundamentals-applications-and-safety/140215",
+    "rcn": "111329",
+    "cost": "3184248",
+    "funding": "3184248",
+    "project_acronym": "PHD4ENERGY",
+    "start_date": "1391209200",
+    "end_date": "1517353200"
+  },
+  {
+    "id": "140216",
+    "title": "Transforming industrial agrichemical research through the development of novel chemical tools and technologies to investigate molecular interactions",
+    "participants": [
+      {
+        "name": "IMPERIAL COLLEGE OF SCIENCE, TECHNOLOGY AND MEDICINE",
+        "country": "GB",
+        "city": "LONDON",
+        "lat": "51.4982",
+        "lon": "-0.174115"
+      }
+    ],
+    "url": "http://cordis.lab/project/transforming-industrial-agrichemical-research-through-development-novel-chemical-tools-and",
+    "rcn": "109362",
+    "cost": "3816692",
+    "funding": "3816692",
+    "project_acronym": "NEXGENAGRICHEM",
+    "start_date": "1393628400",
+    "end_date": "1519772400"
+  },
+  {
+    "id": "140217",
+    "title": "Industry and Doctoral Training in Vote Advice Applications",
+    "participants": [
+      {
+        "name": "THE UNIVERSITY OF EXETER",
+        "country": "GB",
+        "city": "EXETER",
+        "lat": "50.7349",
+        "lon": "-3.53571"
+      },
+      {
+        "name": "KIESKOMPAS",
+        "country": "NL",
+        "city": "AMSTERDAM",
+        "lat": "52.3348",
+        "lon": "4.87369"
+      }
+    ],
+    "url": "http://cordis.lab/project/industry-and-doctoral-training-vote-advice-applications/140217",
+    "rcn": "109506",
+    "cost": "880775",
+    "funding": "880775",
+    "project_acronym": "VOTEADVICE",
+    "start_date": "1398895200",
+    "end_date": "1525039200"
+  }
+]
