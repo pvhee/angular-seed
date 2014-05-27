@@ -16,7 +16,8 @@ angular.module('myApp.controllers', [])
     $scope.allResults = false;  // Whether or not all results have been found.
 
     // And, a random search term to start if none was present on page load.
-    $scope.searchTerm = $location.search().q || initChoices[idx];
+    // $scope.searchTerm = $location.search().q || initChoices[idx];
+    $scope.searchTerm = '';
 
     /**
      * A fresh search. Reset the scope variables to their defaults, set
