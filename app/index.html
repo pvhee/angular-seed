@@ -30,8 +30,8 @@
     </section>
 
     <section class='results'>
-      <div class='no-recipes' ng-hide='projects.length'>No results</div>
-      <article class='recipe' ng-cloak ng-repeat='project in projects'>
+      <div class='no-projects' ng-hide='projects.length'>No results</div>
+      <article class='project' ng-cloak ng-repeat='project in projects'>
         <h4>
           <a ng-href='{{project.url}}'>{{project.acronym}}</a>
         </h4>
