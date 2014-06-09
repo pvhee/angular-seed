@@ -22,20 +22,19 @@ angular.module('myApp.services', []).
      */
     var search = function(term, offset) {
       var deferred = $q.defer();
-      var query = {
-        "match": {
-         	"_all": term
-         }
-      };
 
       client.search({
-      	"index": 'cordis',
-        "type": 'project',
-        "body": {
-        	"size": 10,
-          "from": (offset || 0) * 10,
-          "query": query
-         }
+      	index: 'cordis',
+        type: 'project',
+        body: {
+        	size: 10,
+          from: (offset || 0) * 10,
+          query: {
+            match: {
+              _all: term
+            }
+          }
+        }
       }).then(function(result) {
 	      var ii = 0, hits_in, hits_out = [];
 	      hits_in = (result.hits || {}).hits || [];
@@ -48,7 +47,39 @@ angular.module('myApp.services', []).
       return deferred.promise;
     };
 
+    var filter = function(term) {
+      var deferred = $q.defer();
+      client.search({
+        index: 'cordis',
+        type: 'project',
+        body: {
+          query: {
+            match: {
+              _all: 'spain'
+            }
+          },
+          facets: {
+            country: {
+              terms: {
+                field: "country"
+              }
+            }
+          }
+        },
+      }).then(function(result) {
+        var ii = 0, hits_in, hits_out = [];
+        hits_in = (result.hits || {}).hits || [];
+        for(;ii < hits_in.length; ii++){
+          hits_out.push(hits_in[ii]._source);
+        }
+        deferred.resolve(hits_out);
+      }, deferred.reject);
+
+      return deferred.promise;
+    };
+
     return {
-      "search": search
+      "search": search,
+      "filter": filter
     };
   }]);

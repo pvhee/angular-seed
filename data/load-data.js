@@ -32,7 +32,8 @@ fs.readFile(projects, {encoding: 'utf-8'}, function(err, data) {
       rcn: obj.rcn,
       acronym: obj.project_acronym,
       start_date: obj.start_date,
-      end_date: obj.end_date
+      end_date: obj.end_date,
+      participants: obj.participants
     };
 
     bulk_request.push({index: {_index: index, _type: 'project', _id: item.id}});

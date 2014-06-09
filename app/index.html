@@ -26,21 +26,29 @@
     <!-- The search box puts the term into $scope.searchTerm
        and calls $scope.search() on submit -->
     <section class="searchField">
-      <input type="text" ng-model="searchTerm" placeholder="Enter a search term..." ng-change="search()">
+      <input id="firstStop" type="text" ng-model="searchTerm" placeholder="Enter a search term..." ng-init="search()" ng-change="search()">
     </section>
+
+    <span class="button small round" ng-click="filter()">Spain</span>
 
     <section class='results'>
       <div class='no-projects' ng-hide='projects.length'>No results</div>
       <article class='project' ng-cloak ng-repeat='project in projects'>
-        <h4>
-          <a ng-href='{{project.url}}'>{{project.acronym}}</a>
-        </h4>
-<!--         <ul>
-          <li ng-repeat='ingredient in recipe.ingredients'>{{ ingredient }}</li>
-        </ul> -->
-        <p>
-          {{project.name}}
-        </p>
+        <h3>
+          <a ng-href='http://cordis.europa.eu/projects/rcn/{{project.rcn}}_en.html' target="_blank">{{project.acronym}}</a>
+          <!-- <small>{{project.name}}</small> -->
+        </h3>
+        <p>{{project.name}}</p>
+
+        <p>EUR {{ project.funding | formatEuro }}/{{ project.cost | formatEuro }}</p>
+
+        <ul class="inline-list">
+          <li ng-repeat="participant in project.participants">
+            <!-- {{ participant }} -->
+            <small> {{ participant.name | camelCase }} <b>{{ participant.country }} </b></small>
+          </li>
+        </ul>
+
       </article>
       <div class='load-more' ng-cloak ng-hide='allResults'>
         <a ng-click='loadMore()' class="button">More...</a>
@@ -58,6 +66,8 @@
   <script src="bower_components/elasticsearch/elasticsearch.angular.min.js"></script>
   <script src="bower_components/jquery/dist/jquery.min.js"></script>
   <script src="bower_components/foundation/js/foundation.js"></script>
+  <script src="bower_components/d3/d3.min.js"></script>
+  <script src="lib/elastic.js/dist/elastic.js"></script>
   <script src="js/app.js"></script>
   <script src="js/services.js"></script>
   <script src="js/controllers.js"></script>

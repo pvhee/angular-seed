@@ -11,13 +11,12 @@ angular.module('myApp.controllers', [])
     var idx = Math.floor(Math.random() * initChoices.length);
 
     // Initialize the scope defaults.
-    $scope.projects = [];        // An array of recipe results to display
+    $scope.projects = [];        // An array of project results to display
     $scope.page = 0;            // A counter to keep track of our current page
     $scope.allResults = false;  // Whether or not all results have been found.
 
-    // And, a random search term to start if none was present on page load.
-    // $scope.searchTerm = $location.search().q || initChoices[idx];
-    $scope.searchTerm = '';
+    // Take the term from the URL or set the empty
+    $scope.searchTerm = $location.search().q || '';
 
     /**
      * A fresh search. Reset the scope variables to their defaults, set
@@ -31,6 +30,24 @@ angular.module('myApp.controllers', [])
       $scope.loadMore();
     };
 
+    $scope.filter = function() {
+      $scope.projects = [];
+
+      projectService.filter('ES').then(function(results) {
+
+
+        console.log(results);
+
+        if(results.length !== 10){
+          $scope.allResults = true;
+        }
+        var ii = 0;
+        for(;ii < results.length; ii++){
+          $scope.projects.push(results[ii]);
+        }
+      });
+    }
+
     /**
      * Load the next page of results, incrementing the page counter.
      * When query is finished, push results onto $scope.recipes and decide
@@ -39,7 +56,7 @@ angular.module('myApp.controllers', [])
     $scope.loadMore = function() {
       projectService.search($scope.searchTerm, $scope.page++).then(function(results){
         if(results.length !== 10){
-            $scope.allResults = true;
+          $scope.allResults = true;
         }
         var ii = 0;
         for(;ii < results.length; ii++){
